@@ -1,0 +1,12 @@
+/data/app/SBrowser_16.2_Removable/SBrowser_16.2_Removable.apk
+/data/app/Duo/Duo.apk
+/data/app/SecCalculator_R/SecCalculator_R.apk
+/data/app/Photos/Photos.apk
+/data/app/Drive/Drive.apk
+/data/app/Spotify/Spotify.apk
+/data/app/YTMusic/YTMusic.apk
+/data/app/SamsungDotCom/SamsungDotCom.apk
+/data/app/KidsHome/KidsHome.apk
+/data/app/OfficeMobile_SamsungStub/OfficeMobile_SamsungStub.apk
+/data/app/Videos/Videos.apk
+/data/app/LinkedIn_SamsungStub_Deletable/LinkedIn_SamsungStub_Deletable.apk
